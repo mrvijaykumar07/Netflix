@@ -163,12 +163,12 @@
 
 .leftside>:nth-child(1) {
     font-size: 40px;
-   
+
 }
 
 .leftside>:nth-child(2) {
     font-size: 20px;
-    padding :20px 40px;
+    padding: 20px 40px;
 }
 
 .rightside img {
@@ -327,13 +327,24 @@
         height: 8vh;
     }
 
+    .logo img {
+        width: 120px;
+    }
+
+    .btn {
+        padding: 4px 25px 4px 20px;
+
+    }
+
+
     .put {
         flex-direction: column;
     }
 
-.box{
-height: 80vh;
-}
+    .box {
+        height: 80vh;
+    }
+
     .midcontent {
         width: 100%;
         height: 40vh;
@@ -453,5 +464,3 @@ height: 80vh;
     }
 
 }
-
-
