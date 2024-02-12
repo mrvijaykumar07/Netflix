@@ -292,7 +292,6 @@
 
     .secondpage {
         flex-direction: column;
-        margin: auto;
     }
 
 
@@ -328,15 +327,18 @@
     }
 
     .logo img {
-        width: 120px;
+        width: 110px;
     }
 
     .btn {
-        padding: 4px 25px 4px 20px;
+        padding: 4px 20px 4px 20px;
 
     }
 
-
+.english {
+    padding: 4px 20px 4px 20px;
+    
+}
     .put {
         flex-direction: column;
     }
